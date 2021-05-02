@@ -8,7 +8,7 @@
 }
 
 body {
-  background: lightblue;
+  background: #333;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -51,8 +51,8 @@ body {
 
 .profileText .imgBx {
   position: relative;
-  width: 200px;
-  height: 200px;
+  width: 180px;
+  height: 180px;
   border-radius: 50%;
   overflow: hidden;
 }
@@ -150,4 +150,15 @@ body {
   left: 0;
   height: 3px;
   background: #03a9f4;
+}
+
+@media (max-width: 950px) {
+  .container {
+    margin: 10px;
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .interests ul {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
