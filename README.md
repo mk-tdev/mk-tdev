@@ -1,6 +1,8 @@
+## Developer, Tech enthusiast and Youtuber!!
+
 - 👋 Hi, I’m @mk-tdev(Muthu Kumar)
-- 👀 I’m interested in ... React, Angular, Javascript
-- 🌱 I’m currently learning ... micro-frontends
+- 👀 I’m interested in ... React, Angular, Vue & Javascript
+- 🌱 I’m currently learning ... micro-frontends and node
 - 💞️ I’m looking to collaborate on front-end development
 - 📫 How to reach me ...by contacting via mk-dev@outlook.com
 - 📫 My profile here .. https://mk-tdev.github.io/mk-tdev/mk/
