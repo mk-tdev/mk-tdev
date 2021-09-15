@@ -34,6 +34,17 @@
 <br />
 <br />
 
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+
+- [Javascript: Arrays - 23 array methods under 20 minutes](https://www.youtube.com/watch?v=z43s5Pe-wIE)
+- [HTML5 & CSS3: Emoji using pure html and css](https://www.youtube.com/watch?v=7r2HQ8XVlto&t=7s)
+- [VS Code Emmet](https://www.youtube.com/watch?v=j1NZoFxGnTI&t=23s)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://www.youtube.com/channel/UCO8OwLWlAIQU4kYWLytkEVw)
+
 [webdevplaylist]: https://www.youtube.com/channel/UCO8OwLWlAIQU4kYWLytkEVw
 [youtube]: https://www.youtube.com/channel/UCO8OwLWlAIQU4kYWLytkEVw
 [linkedin]: https://www.linkedin.com/in/muthukumar-dev/
