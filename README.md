@@ -9,8 +9,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codewithmk | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codewithmk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codewithmk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -50,6 +51,7 @@
 [webdevplaylist]: https://www.youtube.com/channel/UCO8OwLWlAIQU4kYWLytkEVw
 [youtube]: https://www.youtube.com/channel/UCO8OwLWlAIQU4kYWLytkEVw
 [linkedin]: https://www.linkedin.com/in/muthukumar-dev/
+[instagram]: https://www.instagram.com/mkumar_here/
 [jsplaylist]: https://www.youtube.com/watch?v=XsRjL6IDXG4&list=PLfp8fLUhoyaS28NtAgbgkdBd1-4Ja_Sgi
 [cssplaylist]: https://www.youtube.com/watch?v=hORkfGXe9lE&list=PLfp8fLUhoyaTOk2DEIZFenjdLWFNs4KCv
 [devtips]: https://www.youtube.com/watch?v=HdxnU6YLo7s&list=PLfp8fLUhoyaQYsYEKph6Gm6LjDZFDDTKf
