@@ -273,6 +273,27 @@
       font-weight: 720;
     }
 
+    .focus-note {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.65rem;
+      max-width: 100%;
+      margin: 0 0 2rem;
+      padding: 0.65rem 0.85rem;
+      border: 1px solid rgba(196, 181, 253, 0.28);
+      border-radius: 12px;
+      background: rgba(196, 181, 253, 0.06);
+      color: #d9d1ff;
+      font-family: "SFMono-Regular", Consolas, monospace;
+      font-size: 0.73rem;
+      letter-spacing: 0.02em;
+    }
+
+    .focus-note::before {
+      color: var(--purple);
+      content: "✦";
+    }
+
     .hero-actions {
       display: flex;
       flex-wrap: wrap;
@@ -1191,6 +1212,7 @@
               I'm <strong>Muthukumar</strong> — a frontend and AI systems engineer with 15 years of experience turning
               complex ideas into scalable platforms, intelligent workflows, and developer tools.
             </p>
+            <p class="focus-note">Currently building with AI-first SDD: specify → build → verify</p>
             <div class="hero-actions">
               <a class="button button-primary" href="#projects">Explore my work <span class="arrow" aria-hidden="true">↓</span></a>
               <a class="button" href="https://www.linkedin.com/in/muthukumar-dev/" target="_blank" rel="noreferrer">LinkedIn <span class="arrow" aria-hidden="true">↗</span></a>
@@ -1269,7 +1291,7 @@
           <article class="card expertise-card reveal">
             <span class="card-number" aria-hidden="true">03</span>
             <h3>Developer experience</h3>
-            <p>Specification-driven workflows, automation tools, browser extensions, and feedback loops that help teams ship with confidence.</p>
+            <p>AI-first, specification-driven workflows that turn intent into verifiable software through clear specs, focused implementation, and fast feedback loops.</p>
             <ul class="tag-list" aria-label="Developer experience technologies">
               <li>OpenSpec</li><li>FastAPI</li><li>SSE</li><li>Playwright</li><li>CI/CD</li>
             </ul>
