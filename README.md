@@ -1,6 +1,8 @@
 # Hi, I'm Muthukumar 👋
 
-I build frontend systems, developer tools, and AI-assisted workflows.
+I'm a **Senior AI Engineer at Singtel**, based in Singapore. I joined on **12 October 2026**, bringing 15 years of experience in frontend systems, developer tools, and AI-assisted workflows.
+
+[Explore my interactive portfolio](https://mk-tdev.github.io/mk-tdev/)
 
 ## What I work on
 
@@ -11,11 +13,13 @@ I build frontend systems, developer tools, and AI-assisted workflows.
 
 ## Selected projects
 
-### Agentic AI Orchestration Platform
+### Village of Shadows
 
-An AI workflow platform exploring planning, execution, verification, retrieval, tool use, and human review.
+A playable Werewolf learning lab with six independent AI agents and a human inside the graph. Explore orchestration, private context, memory, tools, and decisions.
 
-`LangGraph` `LangChain` `FastAPI` `Next.js` `MCP` `RAG`
+[Enter the village](https://village-of-shadows.vercel.app/) · [Source](https://github.com/mk-tdev/village-of-shadows)
+
+`LangGraph` `FastAPI` `Next.js` `MCP` `PostgreSQL`
 
 ### ScreenStitcher
 
@@ -24,10 +28,6 @@ A browser extension for capturing multiple screenshots and composing them into a
 ### TrafficLens
 
 A browser extension for inspecting Fetch and XHR activity during frontend development.
-
-### ResponseRover
-
-A developer tool for inspecting, overriding, and reusing API responses and headers.
 
 ### Bamboo Log Analyzer
 
