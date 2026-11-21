@@ -35,7 +35,6 @@ Built with **LangGraph, MCP, FastAPI, Next.js, and PostgreSQL**.
 | --- | --- |
 | [Nori](https://github.com/mk-tdev/nori) | A native SwiftUI dashboard for Mac system metrics, apps, Docker, and developer caches. |
 | [Logview Local](https://github.com/mk-tdev/logview) | A local browser console for inspecting Node.js logs and structured values while keeping existing `console.log()` calls. |
-| [SocketDelta](https://github.com/mk-tdev/socket-delta) | Inspect WebSocket frames and compare JSON changes without leaving VS Code. |
 | [ScreenStitcher](https://github.com/mk-tdev/ScreenStitcher) | Capture visible areas or full webpages and export individual or collected screenshots as PDFs. |
 | [TrafficLens](https://github.com/mk-tdev/TrafficLens) | Capture browser network requests and responses, then export JSON or a Postman Collection. |
 | [StreakPath](https://play.google.com/store/apps/details?id=com.mktdev.streakpath) | An Android habit tracker for building and following daily routines. |
